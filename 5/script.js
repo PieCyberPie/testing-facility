@@ -19,5 +19,4 @@ function isJumping(n) {
     return 'JUMPING';
 }
 
-
 isJumping(13456)
