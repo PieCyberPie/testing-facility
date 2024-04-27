@@ -1,0 +1,22 @@
+body {
+  background-color: #142d4c;
+}
+
+.header {
+  position: absolute;
+}
+
+.div {
+  position: absolute;
+  bottom: 50%
+}
+
+div {
+  background-color: #385170;
+  color: #9fd3c7;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+}
